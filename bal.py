@@ -2,7 +2,7 @@ import sys
 
 if len(sys.argv) >= 3:
   script_name = sys.argv[0]
-  intial = sys.argv[1]
+  initial = sys.argv[1]
   deposit = sys.argv[1]
 else:
   script_name = sys.argv[0]
