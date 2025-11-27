@@ -10,4 +10,6 @@ else:
   deposit = 2000
 
 balance=intial+deposit
-print("balance:",balance)
+print("intial amount:",intial amount)
+print("deposit amount:",deposit amount)
+print(" total bill amount:",total bill  amount)
