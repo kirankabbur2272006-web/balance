@@ -9,7 +9,7 @@ else:
   initial  = 15000
   deposit = 2000
 
-balance=intial+deposit
+balance=initial+deposit
 print("initial:",initial)
 print("deposit:",deposit)
 print(" balance amount:",balance)
